@@ -21,3 +21,9 @@ where "my_sample" is a subfolder that was created in the output directory "myout
 
 
 The functionality is still very limited. To be extended in future versions.
+
+For testing purposes one can also run on a single file with the following code snippet:
+
+```
+cmsRun DeepNtuplizer.py inputFiles=<input File> <further options>
+```
